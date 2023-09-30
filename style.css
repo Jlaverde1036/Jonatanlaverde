@@ -10,3 +10,17 @@ html, body {
     font-family: "Montserrat", sans-serif;
     background-color: #f9f9f9;
 }
+h2 {
+    font-size: 1.8rem;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 500;
+    margin-bottom: 50px;
+}
+
+h4 {
+    font-size: 1.5rem;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    font-weight: 500;
+}
